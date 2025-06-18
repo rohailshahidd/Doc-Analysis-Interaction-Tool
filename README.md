@@ -7,8 +7,6 @@
 - [Usage](#usage)
 - [Supported Input Types](#supported-input-types)
 - [Detailed Feature Descriptions](#detailed-feature-descriptions)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🌟 Overview
 
